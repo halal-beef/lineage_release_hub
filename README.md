@@ -8,7 +8,7 @@ Repo to upload all my lineage builds lol
 
 ### Galaxy S20 5G (x1s)
 
-- [Releases](https://github.com/halal-beef/lineage_release_hub/releases/tag/x1s)
+- [Releases](https://github.com/halal-beef/lineage_release_hub/releases/)
 
 #### Flashing instructions
 
